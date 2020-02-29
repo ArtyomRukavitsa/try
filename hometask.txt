@@ -1,1 +1,11 @@
 Сколько бы я раз ни старался, у меня ветки master и demo всегда совпадают
+
+Восемь коммитов. Комментарии:
+1. Initial commit
+2. init
+3. README added
+4. fix readme
+5. heat added
+6. dots
+7. boots
+8. Добавил hometask.txt
